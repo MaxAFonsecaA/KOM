@@ -1,2 +1,2 @@
 # KOM
- Primeiro repositorio versionado
+ Primeiro repositorio versionado do KOM
